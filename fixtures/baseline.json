@@ -1,0 +1,1 @@
+{"metrics":[{"name":"http_requests_total","labels":{"method":"GET","route":"/users","status":"200"},"value":100,"kind":"counter"},{"name":"http_requests_total","labels":{"method":"POST","route":"/users","status":"201"},"value":20,"kind":"counter"},{"name":"queue_depth","labels":{"queue":"emails"},"value":3,"kind":"gauge"}]}

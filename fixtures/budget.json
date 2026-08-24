@@ -1,0 +1,1 @@
+{"failOn":"error","rules":[{"metric":"http_requests_total","maxSeries":2,"maxCardinality":{"route":2},"forbiddenLabels":["user_id"]},{"metric":"queue_depth","maxSeries":4,"maxCardinality":{"queue":10}}]}
